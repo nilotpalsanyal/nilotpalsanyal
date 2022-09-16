@@ -1,6 +1,6 @@
-Hello! Welcome to my webpage.
+<img src="profile_pic.jpg" alt="drawing" style="width:80px;float:left"/> <span>
 
-Make yourself comfortable.
+Hello! Welcome to my webpage. Make yourself comfortable.</span>
 
 
 
